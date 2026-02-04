@@ -101,10 +101,10 @@ console.log(arr)//printing the uodated array.
 
 //9.Student Object
 let student={
-    Name:"Venkatesh chowdhary",
+    Name:"Akshat",
     Age:22,
     Course:"computer science and engineering ",
-    City:"Srikakulam"
+    City:"Bangalore"
 }
 console.log(student.Name);
 console.log(student.Age)
@@ -121,4 +121,5 @@ let company={
 }
 console.log(company.companyName);
 console.log(company.trainer.trainerName);
+
 console.log(company.trainer.trainerSubject)
